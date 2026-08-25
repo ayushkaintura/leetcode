@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 | [1544-make-the-string-great](https://github.com/ayushkaintura/leetcode/tree/master/1544-make-the-string-great) |
 ## Stack
 |  |
@@ -35,4 +36,16 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushkaintura/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
