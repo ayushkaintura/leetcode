@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ayushkaintura/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 | [1544-make-the-string-great](https://github.com/ayushkaintura/leetcode/tree/master/1544-make-the-string-great) |
@@ -40,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ayushkaintura/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
@@ -57,5 +59,6 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ayushkaintura/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
