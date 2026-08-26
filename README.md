@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 | [1544-make-the-string-great](https://github.com/ayushkaintura/leetcode/tree/master/1544-make-the-string-great) |
 ## Stack
@@ -39,6 +40,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
@@ -48,4 +50,12 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
