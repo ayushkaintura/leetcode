@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushkaintura/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0704-binary-search](https://github.com/ayushkaintura/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushkaintura/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Range Minimum/Maximum Query
@@ -88,6 +89,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/ayushkaintura/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
