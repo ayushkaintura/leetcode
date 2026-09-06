@@ -42,6 +42,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushkaintura/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayushkaintura/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushkaintura/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushkaintura/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Range Minimum/Maximum Query
 |  |
@@ -101,6 +102,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushkaintura/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayushkaintura/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushkaintura/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Prefix Sum
 |  |
 | ------- |
