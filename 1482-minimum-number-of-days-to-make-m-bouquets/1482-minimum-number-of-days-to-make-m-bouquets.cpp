@@ -4,8 +4,8 @@ int func(vector<int> &arr,int n,int k,int guess){
 
     int count = 0;
     int bouquet = 0;
- for(int i = 0; i < arr.size(); i++)
-{
+        for(int i = 0; i < arr.size(); i++)
+         {
             if(guess >= arr[i])
           {
             count++;
@@ -23,15 +23,18 @@ return bouquet;
 }
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n=bloomDay.size();
-      int low = *min_element(bloomDay.begin(), bloomDay.end());
-int high = *max_element(bloomDay.begin(), bloomDay.end());
+
+      int low = *min_element(bloomDay.begin(), bloomDay.end()); // Minimum din
+      int high = *max_element(bloomDay.begin(), bloomDay.end()); // MAXimum din 
         int ans=-1;
+
        if ((long long)m * k > n)
-    return -1;
+           return -1;
+
         while(low <= high)
         {
-            int guess=(high + low)/2;
-            int res=func(bloomDay , n,k,guess);
+            int guess=(high + low)/2;   // guessing random day
+            int res=func(bloomDay , n,k,guess);  // getting no of bouquet
 
             if(res >= m)
             {
