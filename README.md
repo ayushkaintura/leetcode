@@ -40,6 +40,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushkaintura/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkaintura/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/ayushkaintura/leetcode/tree/master/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ayushkaintura/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushkaintura/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ayushkaintura/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkaintura/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0275-h-index-ii](https://github.com/ayushkaintura/leetcode/tree/master/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ayushkaintura/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushkaintura/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -114,6 +117,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Ternary Search
 |  |
@@ -123,4 +127,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
