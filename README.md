@@ -46,6 +46,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushkaintura/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayushkaintura/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushkaintura/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushkaintura/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushkaintura/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushkaintura/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushkaintura/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -112,6 +113,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushkaintura/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayushkaintura/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushkaintura/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushkaintura/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushkaintura/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/ayushkaintura/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Prefix Sum
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushkaintura/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
