@@ -39,6 +39,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushkaintura/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkaintura/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushkaintura/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ayushkaintura/leetcode/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ayushkaintura/leetcode/tree/master/0704-binary-search) |
@@ -106,6 +107,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushkaintura/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushkaintura/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushkaintura/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/ayushkaintura/leetcode/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ayushkaintura/leetcode/tree/master/0704-binary-search) |
@@ -129,9 +131,14 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushkaintura/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushkaintura/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushkaintura/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
