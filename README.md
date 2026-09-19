@@ -112,6 +112,7 @@
 | [0275-h-index-ii](https://github.com/ayushkaintura/leetcode/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ayushkaintura/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayushkaintura/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/ayushkaintura/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushkaintura/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/ayushkaintura/leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 <!---LeetCode Topics End-->
