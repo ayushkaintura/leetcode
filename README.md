@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ayushkaintura/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ayushkaintura/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushkaintura/leetcode/tree/master/0409-longest-palindrome) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ayushkaintura/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ayushkaintura/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ayushkaintura/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushkaintura/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/ayushkaintura/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ayushkaintura/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayushkaintura/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/ayushkaintura/leetcode/tree/master/0658-find-k-closest-elements) |
