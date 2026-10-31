@@ -9,6 +9,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushkaintura/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushkaintura/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushkaintura/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/ayushkaintura/leetcode/tree/master/1544-make-the-string-great) |
@@ -70,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ayushkaintura/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushkaintura/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushkaintura/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushkaintura/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ayushkaintura/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ayushkaintura/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/ayushkaintura/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ayushkaintura/leetcode/tree/master/0713-subarray-product-less-than-k) |
